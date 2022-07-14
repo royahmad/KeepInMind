@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teel_200">#03DAC6</color>
+    <color name="teel_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="magenta">#bf00ff</color>
+    <color name="purple">#8f00f1</color>
+    <color name="violet">#6600ff</color>
+    <color name="ruby">#ff0490</color>
+    <color name="red">#e60000</color>
+    <color name="raspberry">#ff003f</color>
+    <color name="pink">#fc74fd</color>
+    <color name="orange">#fc8427</color>
+    <color name="redOrange">#ff3503</color>
+    <color name="yellowOrange">#ffcf00</color>
+    <color name="yellow">#fffc00</color>
+    <color name="yellowGreen">#ccff00</color>
+    <color name="green">#21fc0d</color>
+    <color name="babyBlue">#55ffff</color>
+    <color name="aqua">#0ff0fc</color>
+    <color name="blue">#0000ff</color>
+
+    <array name="easyLvlColor">
+        <item>@color/red</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+        <item>@color/blue</item>
+    </array>
+
+    <array name="normalLvlColor">
+        <item>@color/red</item>
+        <item>@color/pink</item>
+        <item>@color/magenta</item>
+        <item>@color/redOrange</item>
+        <item>@color/yellow</item>
+        <item>@color/yellowGreen</item>
+        <item>@color/blue</item>
+        <item>@color/babyBlue</item>
+        <item>@color/green</item>
+    </array>
+
+    <array name="proLvlColor">
+        <item>@color/magenta</item>
+        <item>@color/purple</item>
+        <item>@color/violet</item>
+        <item>@color/ruby</item>
+        <item>@color/red</item>
+        <item>@color/raspberry</item>
+        <item>@color/pink</item>
+        <item>@color/orange</item>
+        <item>@color/redOrange</item>
+        <item>@color/yellowOrange</item>
+        <item>@color/yellow</item>
+        <item>@color/yellowGreen</item>
+        <item>@color/green</item>
+        <item>@color/babyBlue</item>
+        <item>@color/aqua</item>
+        <item>@color/blue</item>
+    </array>
+</resources>
